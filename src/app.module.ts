@@ -19,4 +19,7 @@ import { AppLoggerService } from './shared/logger/app-logger.service';
   controllers: [AppController],
   providers: [AppService, AppLoggerService],
 })
-export class AppModule { }
+
+export class AppModule {
+  
+}
