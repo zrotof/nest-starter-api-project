@@ -4,15 +4,15 @@ This project is a NestJS starter kit, designed to accelerate the development of 
 
 
 # Key Features
-Modular & Scalable Structure: A well-organized architecture for long-term maintenance.
+- Modular & Scalable Structure: A well-organized architecture for long-term maintenance.
 
-Centralized Configuration: Environment variable (.env) management with @nestjs/config.
+- Centralized Configuration: Environment variable (.env) management with @nestjs/config.
 
-Advanced Winston Logging: Professional logging system with distinct configurations for development (console) and production (rotating JSON files).
+- Advanced Winston Logging: Professional logging system with distinct configurations for development (console) and production (rotating JSON files).
 
-API Documentation: Swagger integration for automatic and interactive API documentation.
+- API Documentation: Swagger integration for automatic and interactive API documentation.
 
-CORS Configuration: Secure management of cross-origin requests with a customizable whitelist.
+- CORS Configuration: Secure management of cross-origin requests with a customizable whitelist.
 
 
 # Quick Start
